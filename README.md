@@ -1,2 +1,1 @@
-##For example:
-patchs.py "-p1 -E" /path/to/patchsdir
+###These are my tools.
